@@ -4,7 +4,7 @@
 
 [![HitCount](https://hits.dwyl.com/sidmarrodrigues/meu-projeto-git.svg)](https://hits.dwyl.com/sidmarrodrigues/meu-projeto-git)
 
-Este projeto é o código-fonte do curriculo online de Tulio Faria, disponível em: https://tuliofaria.dev
+
 
 
 ## Início
